@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=SATYAM%20GUPTA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Utkarsh%20Maddheshiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Digital+Products;Engineering+with+Impact"/>
 
